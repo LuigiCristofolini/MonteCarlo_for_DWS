@@ -16,6 +16,9 @@ To know more about the physics behind DWS:
 
 [3] Pine, Weitz et al. Phys Rev Lett 60 1134 (1988)
 
+The same, can also be found in the Matlab Central File Exchange
+https://it.mathworks.com/matlabcentral/fileexchange/83943-simulate_path_length_distributions
+
 MATLAB computing environment is chosen because  it is quite efficient by allowing implicit parallelization if the simulation is articulated in photon bunches.
 Optimal bunch size is of the order of nParallel=10^5 photons with a typical Win10 64-bit running on 8 GB RAM.
  This number is optimized on my PC (Matlab 202ob on a W10 machine with 8Gb RAM), but please experience other values on you machine
