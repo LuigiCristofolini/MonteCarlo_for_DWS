@@ -4,6 +4,7 @@
 This is a template script, and you are free to adapt it your needs!
 
 More details on the script, and on its usage, can be found in: 
+
 [0] V. Lorusso et al., Advances in Colloids and Interface Science 288 (2021)
 
 More about the physics behind, in the following literature:
